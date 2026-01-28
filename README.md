@@ -1,4 +1,4 @@
-## Hi there 👋
+“To want someone to intrude upon your life—might that be what it means to long to be loved?”
 
 <!--
 **meta-syntax/meta-syntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
