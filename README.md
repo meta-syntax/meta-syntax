@@ -9,9 +9,9 @@
 <!-- OSS:START -->
 ### [Vue.js](https://github.com/vuejs/core) (Contributor)
 
+- [fix(vapor): return bindings for render in normal script in vapor inline mode #15780](https://github.com/vuejs/core/pull/15780) — **Merged**
 - [fix(runtime-vapor): track reactive object style keys during hydration #15663](https://github.com/vuejs/core/pull/15663) — **Merged**
   Vapor モードでハイドレーションした要素のスタイルが、本番ビルドでリアクティブに更新されない不具合を修正
-- [fix(compiler-sfc): return bindings for render in normal script in vapor inline mode #15780](https://github.com/vuejs/core/pull/15780) — Open
 
 ### [VueUse](https://github.com/vueuse/vueuse) (Contributor)
 
