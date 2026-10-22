@@ -26,8 +26,6 @@
 ### [Nitro](https://github.com/nitrojs/nitro)
 
 - [fix(config): support inline objects and functions in `extends` #4691](https://github.com/nitrojs/nitro/pull/4691) — Open
-- [fix(dev): resolve public assets dynamically in the worker #4549](https://github.com/nitrojs/nitro/pull/4549) — Open
-  開発サーバーで、サーバー内部から public のファイルを fetch すると 404 になる不具合を修正
 <!-- OSS:END -->
 
 ---
