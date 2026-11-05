@@ -14,7 +14,6 @@
 - [fix(vapor): return bindings for render in normal script in vapor inline mode #15780](https://github.com/vuejs/core/pull/15780) — **Merged**
 - [fix(runtime-vapor): track reactive object style keys during hydration #15663](https://github.com/vuejs/core/pull/15663) — **Merged**
   Vapor モードでハイドレーションした要素のスタイルが、本番ビルドでリアクティブに更新されない不具合を修正
-- [fix(runtime-vapor): release transition hooks of a branch that left to nothing #16127](https://github.com/vuejs/core/pull/16127) — Open
 
 ### [VueUse](https://github.com/vueuse/vueuse) (Contributor)
 
